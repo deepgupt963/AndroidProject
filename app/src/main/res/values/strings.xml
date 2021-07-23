@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kirana</string>
+    <string-array name="city_array">
+        <item>Select</item>
+        <item>New Delhi</item>
+        <item>Mumbai</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+        <item>Ranchi</item>
+        <item>Patna</item>
+    </string-array>
+
+</resources>
